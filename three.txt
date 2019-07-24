@@ -1,0 +1,120 @@
+100000
+Aksesoris wanita yang dipakai di telinga adalah ...
+4
+a.Gelang
+b.Anting-anting
+c.Cincin
+d.Maskara
+b
+300000
+Ibukota negara Singapura adalah
+4
+a.Singapura
+b.Penang
+c.Bangkok
+d.Jakarta
+a
+500000
+Mata uang negara russia adalah .. 
+4
+a.Rupiah
+b.Dollar
+c.Euro
+d.Rubel
+d
+750000
+Siapakah juara all england 2016 untuk ganda campuran...
+4
+a.Vladimir ivanov/Ivan Sozomov
+b.Misaki Matsumoto/Ayaka Takashi
+c.Praveen Jordan/Debby Susanto
+d.Joachim Fischer/Christinna Pedersen
+c
+1000000
+Ilmuwan yang menemukan Radium adalah ...
+4
+a.Leonardo Da Vinci
+b.J.J. Thompson
+c.Marie Curie
+d.Bokir Santo
+c
+3000000
+Bangunan tertinggi didunia adalah ...
+4
+a.Burj Khalifa
+b.Shanghai Tower
+c.One World Trade Center
+d.CtF Finance Centre
+a
+5000000
+Bilangan Biner 128 adalah
+4
+a.0 0 0 0 0 0 0 1
+b.0 0 1 0 0 0 0 1
+c.0 0 0 0 0 0 1
+d.1 0 1 0 0 0 0 1
+a
+75000000
+Siapakah pencipta bahasa pemrograman C++
+4
+a.Dennis Ritchie
+b.Bjarne Stroustrup
+c.Anders Hejlsberg
+d.Enris Zulhim
+b
+150000000
+Yang bukan merupakan tipe warna headset steelseries siberia 200 adalah
+4
+a.Gaia Green
+b.Sakura Purple
+c.Proton Yellow
+d.Frost Blue
+d
+200000000
+Jika tarif dasar listrik adalah Rp.6000,dan pemakaian nya sebesar 11.000WH,berapakah biaya listrik yang harus dibayar 
+4
+a.Rp 6.600.000
+b.Rp 66.000
+c.Rp 66.000.000
+d.Rp 660.000
+b
+300000000
+Besar kecepatan cahaya berdasarkan postulat einstein adalah ... m/s
+4	
+a.300.000.000.000
+b.300.000
+c.299.793.455
+d.299.792.458
+d
+100000000
+Firaun termuda pada kerajaan mesir kuno adalah ...
+4
+a.Ramses
+b.Alexander
+c.Tutankhamun
+d.Artaxerxes
+c
+300000000
+Siapakah yang membuat manga Boruto : Naruto Next Generations
+4
+a.Masashi Kishimoto
+b.Ukyo Sishori
+c.Ukyo Kodachi/Mikio ikemoto
+d.Akira Toriyama
+c
+500000000
+Manakah dibawah ini yang merupakan artis hollywood
+4 
+a.Jessica Stoyadinovich
+b.Kagney Linn Karter
+c.Ashlynn Brooke
+d.Pamela Anderson
+d
+1000000000
+Aktor pemeran Choi Young-Do pada Serial Drama Korea 'The Heirs' adalah ...
+4
+a.Kim Woo Bin
+b.Shin Joon Young
+c.Kim Bum
+d.Lee Min Ho
+a
